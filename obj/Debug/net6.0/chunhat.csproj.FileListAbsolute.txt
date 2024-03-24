@@ -1,0 +1,15 @@
+D:\Unity codegym\CtoF\chunhat\bin\Debug\net6.0\chunhat.exe
+D:\Unity codegym\CtoF\chunhat\bin\Debug\net6.0\chunhat.deps.json
+D:\Unity codegym\CtoF\chunhat\bin\Debug\net6.0\chunhat.runtimeconfig.json
+D:\Unity codegym\CtoF\chunhat\bin\Debug\net6.0\chunhat.dll
+D:\Unity codegym\CtoF\chunhat\bin\Debug\net6.0\chunhat.pdb
+D:\Unity codegym\CtoF\chunhat\obj\Debug\net6.0\chunhat.csproj.AssemblyReference.cache
+D:\Unity codegym\CtoF\chunhat\obj\Debug\net6.0\chunhat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity codegym\CtoF\chunhat\obj\Debug\net6.0\chunhat.AssemblyInfoInputs.cache
+D:\Unity codegym\CtoF\chunhat\obj\Debug\net6.0\chunhat.AssemblyInfo.cs
+D:\Unity codegym\CtoF\chunhat\obj\Debug\net6.0\chunhat.csproj.CoreCompileInputs.cache
+D:\Unity codegym\CtoF\chunhat\obj\Debug\net6.0\chunhat.dll
+D:\Unity codegym\CtoF\chunhat\obj\Debug\net6.0\refint\chunhat.dll
+D:\Unity codegym\CtoF\chunhat\obj\Debug\net6.0\chunhat.pdb
+D:\Unity codegym\CtoF\chunhat\obj\Debug\net6.0\chunhat.genruntimeconfig.cache
+D:\Unity codegym\CtoF\chunhat\obj\Debug\net6.0\ref\chunhat.dll
